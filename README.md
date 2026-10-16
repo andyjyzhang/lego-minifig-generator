@@ -1,0 +1,1 @@
+# lego-minifig-generator
